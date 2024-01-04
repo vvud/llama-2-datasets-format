@@ -1,5 +1,5 @@
-PYTHON_VENV_DIR=.venv
-# install .venv!
+PYTHON_VENV_DIR=venv
+# install venv!
 install:
 	python -m venv ${PYTHON_VENV_DIR}
 # format!
